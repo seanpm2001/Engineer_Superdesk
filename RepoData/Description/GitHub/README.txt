@@ -1,0 +1,1 @@
+An open source recreation of the suite of AutoDesk modeling software. I used AutoDesk in my engineering class in High School, but was disappointed to find that there were no free or free and open source alternates to it.
