@@ -1,0 +1,39 @@
+# Start of script
+[Engineear Superdesk]
+[[Libraries]]
+# Pre-defined LIBraries for easy import
+[[[The architect]]]
+[[[[Design patterns]]]]
+[[[[[Milky_Way]]]]]
+[[[[[[Earth]]]]]]]
+[[[[[[[Medieval era]]]]]]]
+[[[[[[[[Gothic era]]]]]]]]]
+[[[[[[[[[Late Gothic era]]]]]]]]]
+[[[[[[[[[[Europe]]]]]]]]]]
+"{Item:Flying_Buttrice}"
+"{Item:Pinnacle}"
+"{Item:Gable}"
+"{Item_Ribbed_Groin_Vault}"
+"{Item_Fan_Vault}"
+"{Item_Pointed_Arch}"
+[[[[[[[[[Middle Gothic era]]]]]]]]
+[[[[[[[[[[Europe]]]]]]]]]]
+"{Item:Groin_Vault}"
+[[[[[[Religious Architecture]]]]]]
+[[[[[[[Cathedrals]]]]]]]
+"{Item_Sphire}"
+"{Item_Cross}"
+"{Item_Puew}" # Spelling needs to be fixed
+"{Item_Steeple}"
+[[[[[[[Mosque]]]]]]]
+# This section is currently empty
+[[[[[[[Synagogues]]]]]]]
+# This section is currently empty
+[[[[[[[Buddhist Temples]]]]]]]
+# This section is currently empty
+# Personal note: some of these terms (mainly from the Gothic eras) have names with genitalia terms in them. I don't know if this was intentional, or if the meaning of the terms changed over the past 1000 years.
+# File info
+# File type: TOML document (*.toml)
+# File version: 1 (2022, Saturday, April 2nd at 3:29 pm)
+# Line count (including blank lines and compiler line): 40
+# End of script
