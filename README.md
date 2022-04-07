@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -446,6 +446,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Markdown"><img src="https://avatars.githubusercontent.com/u/85258049?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Markdown language</b></sub></a><br /><a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanpm2001-Markdown-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanpm2001-Markdown-lang" title="Documentation">📖</a> <a href="#platform-Seanpm2001-Markdown-lang" title="Packaging/porting to new platform">📦</a> <a href="#content-Seanpm2001-Markdown-lang" title="Content">🖋</a> <a href="#design-Seanpm2001-Markdown-lang" title="Design">🎨</a> <a href="#maintenance-Seanpm2001-Markdown-lang" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="https://avatars.githubusercontent.com/u/71793933?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeanPM</b></sub></a><br /><a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanpm2001-Software" title="Code">💻</a> <a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanpm2001-Software" title="Documentation">📖</a> <a href="#platform-Seanpm2001-Software" title="Packaging/porting to new platform">📦</a> <a href="#content-Seanpm2001-Software" title="Content">🖋</a> <a href="#design-Seanpm2001-Software" title="Design">🎨</a> <a href="#maintenance-Seanpm2001-Software" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="https://avatars.githubusercontent.com/u/71748083?v=4?s=100" width="100px;" alt=""/><br /><sub><b>seanwallawalla</b></sub></a><br /><a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanwallawalla-Software" title="Code">💻</a> <a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanwallawalla-Software" title="Documentation">📖</a> <a href="#platform-Seanwallawalla-Software" title="Packaging/porting to new platform">📦</a> <a href="#content-Seanwallawalla-Software" title="Content">🖋</a> <a href="#design-Seanwallawalla-Software" title="Design">🎨</a> <a href="#maintenance-Seanwallawalla-Software" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
