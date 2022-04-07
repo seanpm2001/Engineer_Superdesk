@@ -30,6 +30,20 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Engineer-superdesk",
+      "name": "Engineer Superdesk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84877083?v=4",
+      "profile": "https://github.com/seanpm2001/Engineer_Superdesk",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
