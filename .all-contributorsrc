@@ -212,6 +212,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "Seanpm2001-Software",
+      "name": "SeanPM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71793933?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
