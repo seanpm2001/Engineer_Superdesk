@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -436,6 +436,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Seanpm2001-JSON-lang"><img src="https://avatars.githubusercontent.com/u/93161824?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 JSON language</b></sub></a><br /><a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanpm2001-JSON-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanpm2001-JSON-lang" title="Documentation">📖</a> <a href="#platform-Seanpm2001-JSON-lang" title="Packaging/porting to new platform">📦</a> <a href="#content-Seanpm2001-JSON-lang" title="Content">🖋</a> <a href="#design-Seanpm2001-JSON-lang" title="Design">🎨</a> <a href="#maintenance-Seanpm2001-JSON-lang" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_YAML_-YAML_Ain-t_Markup_Language-"><img src="https://avatars.githubusercontent.com/u/85202087?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 YAML language</b></sub></a><br /><a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanpm2001-YAML-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Engineer_Superdesk/commits?author=Seanpm2001-YAML-lang" title="Documentation">📖</a> <a href="#platform-Seanpm2001-YAML-lang" title="Packaging/porting to new platform">📦</a> <a href="#content-Seanpm2001-YAML-lang" title="Content">🖋</a> <a href="#design-Seanpm2001-YAML-lang" title="Design">🎨</a> <a href="#maintenance-Seanpm2001-YAML-lang" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
