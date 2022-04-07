@@ -44,6 +44,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "Seanpm2001-Python",
+      "name": "Seanpm2001 Python projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83988524?v=4",
+      "profile": "https://github.com/python/cpython",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
