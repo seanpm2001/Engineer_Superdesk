@@ -128,6 +128,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "Seanpm2001-TOML-lang",
+      "name": "Seanpm2001 TOML language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85318607?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TOML",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
