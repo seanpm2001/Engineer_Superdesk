@@ -156,6 +156,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "Seanpm2001-BibTeX-lang",
+      "name": "Seanpm2001 BiBTex language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85581998?v=4",
+      "profile": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kbibtex-icon.png",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
