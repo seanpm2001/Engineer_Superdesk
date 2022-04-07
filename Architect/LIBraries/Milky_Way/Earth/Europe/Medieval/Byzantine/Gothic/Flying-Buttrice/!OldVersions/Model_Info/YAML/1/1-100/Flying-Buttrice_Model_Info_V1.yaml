@@ -1,0 +1,70 @@
+---
+# Definition header
+library_name: Flying Buttrice (Gothic)
+era: "Medieval/Byzantine"
+style: "Gothic"
+region_of_origin: "Europe"
+object_id: "00000001"
+stl_model_file: "/Architect/LIBraries/Milky_Way/Earth/Europe/Medieval/Byzantine/Gothic/Flying-Buttrice/Flying-Buttrice.stl"
+gcode_file: "/Architect/LIBraries/Milky_Way/Earth/Europe/Medieval/Byzantine/Gothic/Flying-Buttrice/Flying-Buttrice.gcode"
+preview_image: "/Architect/LIBraries/Milky_Way/Earth/Europe/Medieval/Byzantine/Gothic/Flying-Buttrice/Preview/Preview1.svg"
+---
+# The first variation of the object
+# Definition of first object header
+object_name: "Flying Buttrice (Gothic) variant A"
+era: "Medieval/Byzantine"
+style: "Gothic"
+region_of_origin: "Europe"
+# Raster or vector
+isVector: True # Is vector (SVG)
+isRaster: False # Is Raster (PNG, JPEG, JPG, TIF, TIFF, BMP, etc.)
+# Weight
+# The weight is currently a dummy value set at 256 kg.
+starter_weight_Kilograms: "256.0000"
+starter_weight_Pounds: "564.3834"
+starter_weight_Grams: "256000"
+starter_weight_Tons: "0.2821917"
+# Material
+# Materials can easily be customized.
+materials_list: ["Oak wood", "Red brick"]
+material_type_count: "2"
+material1: "/LIBraries/Materials/Wood/Oak_Wood/Oak_Wood.glsl"
+material2: "/LIBraries/Materials/Stone/Brick/Red_Brick/Red_Brick.glsl"
+material3: "Null;"
+# Dimensions
+# Dimensions in kilometers
+axis_x_kilometers: "0"
+axis_y_kilometers: "0.04"
+axis_z_kilometers: "0.0125"
+# Dimensions in meters
+axis_x_meters: "0"
+axis_y_meters: "40"
+axis_z_meters: "12.5"
+# Dimensions in centimeters
+axis_x_centimeters: "0"
+axis_y_centimeters: "4000"
+axis_z_centimeters: "1250"
+# Dimensions in miles
+axis_x_miles: "0"
+axis_y_miles: "0.02485485"
+axis_Z_miles: "0.00776714"
+# Dimensions in feet
+axis_x_feet: "0"
+axis_y_feet: "131.2336"
+axis_z_feet: "41.0105"
+# Dimensions in inches
+axis_x_inches: "0"
+axis_y_inches: "1574.8032"
+axis_z_inches: "492.126"
+# Submodel ID
+submodel_id: "00000000$1"
+---
+# Technical notes
+# All calculations here were done with DuckDuckGo
+
+# File info
+# File type: YAML source file (*.yml *.yaml)
+# File purpose: defining an object in Engineer Superdesk
+# File version: 1 (2022, Wednesday, April 6th at 5:13 pm)
+# Line count (including blank lines and compiler line): 71
+# End of script
